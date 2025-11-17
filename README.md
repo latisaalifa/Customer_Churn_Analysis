@@ -14,7 +14,7 @@ Our analysis revealed a 20% churn rate, it's meaning that we're losing 1 in ever
 ![EDA_Churn_page-0001](https://github.com/user-attachments/assets/6ae9d67b-a67d-43d1-99fe-8061834772a9)
 
 **Insight**
-- The analysis reveals a 20% churn rate, meaning the company is losing 1 out of every 4 customers. This is a clear warning sign of a serious retention issue. Benchmarking against industry standards is needed to understand the severity of this figure.
+- The analysis reveals a 20% churn rate, meaning the company is losing 1 out of every 5 customers. This is a clear warning sign of a serious retention issue. Benchmarking against industry standards is needed to understand the severity of this figure.
 - The lost revenue of 18,593M indicates that the company has lost a substantial number of customers and a significant amount of potential income.
 - Germany has the highest churn at 814 customers, followed closely by France at 810, while Spain has the lowest at 413. The churn gap between Germany/France and Spain is nearly double, suggesting specific issues such as poor service quality, stronger competition, or underperforming sales teams in those markets.
 - Female customers churn more than male customers, with a difference of over 200 customers or roughly 27%. This indicates that gender may be a key driver of churn, possibly due to differing needs, expectations, or service experiences.
